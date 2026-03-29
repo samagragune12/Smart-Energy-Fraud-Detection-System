@@ -1,4 +1,4 @@
-# Electricity Theft Detection using Machine Learning
+# Smart Energy Fraud Detection System using Machine Learning
 
 **Samagra Gune | 25BCE10462 | B.Tech CSE — 1st Year | VIT Bhopal**
 
