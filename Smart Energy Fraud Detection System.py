@@ -1,4 +1,4 @@
-# electricity theft detection mini project
+# Smart Energy Fraud Detection System
 # Samagra Gune - 25BCE10462
 
 import numpy as np
